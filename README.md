@@ -158,9 +158,6 @@
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <table align="center">
@@ -185,11 +182,7 @@
 <!-- ==================== GITHUB STREAK ==================== -->
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=10badhon&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117"
-    alt="GitHub Contribution Streak"
-    width="75%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=10badhon&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
