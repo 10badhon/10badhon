@@ -15,15 +15,19 @@
 
 <!-- ==================== BADGES ==================== -->
 
+
 <p align="center">
   <a href="https://github.com/10badhon?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Projects" />
   </a>
+
   <a href="https://www.linkedin.com/in/tanvirbadhon10/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=10badhon&amp;label=Profile+Views&amp;color=0891B2&amp;style=for-the-badge" alt="Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=10badhon&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 
 ---
 
