@@ -158,30 +158,37 @@
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=10badhon&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=818CF8&amp;text_color=CBD5E1"
-    alt="GitHub Statistics"
-    height="175"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=10badhon&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1"
-    alt="Top Programming Languages"
-    height="175"
-  />
-
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        width="100%"
+        src="https://github-stats-extended.vercel.app/api?username=10badhon&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=818CF8&amp;text_color=CBD5E1&amp;card_width=400"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        width="100%"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=10badhon&amp;layout=compact&amp;langs_count=7&amp;card_width=400&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1"
+        alt="Top Programming Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- ==================== GITHUB STREAK ==================== -->
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=10badhon&amp;theme=tokyonight&amp;hide_border=true"
+    src="https://streak-stats.demolab.com/?user=10badhon&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117"
     alt="GitHub Contribution Streak"
+    width="75%"
   />
 </p>
 
