@@ -40,12 +40,13 @@
   </a>
 
   <!-- NEW PROFILE VIEWS COUNTER -->
-  <a href="https://hits.sh/github.com/10badhon/">
-    <img
-      src="https://hits.sh/github.com/10badhon.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=0891B2"
-      alt="Profile Views"
-    />
-  </a>
+ 
+<a href="https://hits.sh/github.com/10badhon/">
+  <img
+    src="https://hits.sh/github.com/10badhon.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=0891B2&amp;extraCount=10124"
+    alt="Profile Views"
+  />
+</a>
 
 </p>
 
