@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed Badhon</h1>
 <h3 align="center"></h3>
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"/>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10badhon&label=Profile%20views&color=0e75b6&style=flat" alt="10badhon" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/tanvirbadhon10](www.linkedin.com/in/tanvirbadhon10)
