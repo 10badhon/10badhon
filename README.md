@@ -25,7 +25,8 @@
 
 <p align="center">
 
-  <!-- ANIMATED LIVE PORTFOLIO BUTTON -->
+
+<!-- ANIMATED LIVE PORTFOLIO BUTTON -->
 
 <a href="https://tanvirbadhon.github.io/">
   <img
@@ -35,6 +36,7 @@
     height="32"
   />
 </a>
+
 
   <a href="https://github.com/tanvirbadhon?tab=repositories">
     <img
@@ -83,33 +85,6 @@
 - 📚 Interested in academic research and knowledge sharing.
 - 🌐 Visit my **[Personal Portfolio Website](https://tanvirbadhon.github.io/)**.
 - 📂 Explore my projects on **[GitHub](https://github.com/tanvirbadhon?tab=repositories)**.
-
----
-
-<!-- ==================== FEATURED PORTFOLIO ==================== -->
-
-<h2 align="center">🌐 My Portfolio Website</h2>
-
-<p align="center">
-  Explore my personal portfolio to learn more about my
-  projects, technical skills, academic interests, and
-  programming journey.
-</p>
-
-<p align="center">
-  <a href="https://tanvirbadhon.github.io/">
-    <img
-      src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"
-      alt="Explore My Portfolio Website"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tanvirbadhon.github.io/">
-    <b>🔗 tanvirbadhon.github.io</b>
-  </a>
-</p>
 
 ---
 
@@ -297,11 +272,6 @@
   <a href="https://github.com/tanvirbadhon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-
-  <a href="https://tanvirbadhon.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Personal Portfolio" />
-  </a>
 
 </p>
 
@@ -315,12 +285,6 @@
 
 <p align="center">
   <i>Keep Learning • Keep Building • Keep Improving 🚀</i>
-</p>
-
-<p align="center">
-  <a href="https://tanvirbadhon.github.io/">
-    <b>🌐 Visit My Portfolio Website</b>
-  </a>
 </p>
 
 <p align="center">
