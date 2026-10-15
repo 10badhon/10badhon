@@ -6,7 +6,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:1D4ED8,100:0891B2&amp;height=220&amp;section=header&amp;text=Tanvir%20Ahmed%20Badhon&amp;fontSize=40&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=39&amp;desc=Programming%20%7C%20Problem%20Solving%20%7C%20Continuous%20Learning&amp;descSize=16&amp;descAlignY=62"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:0891B2&height=220&section=header&text=Tanvir%20Ahmed%20Badhon&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=39&desc=Programming%20%7C%20Problem%20Solving%20%7C%20Continuous%20Learning&descSize=16&descAlignY=62"
     alt="Tanvir Ahmed Badhon"
   />
 </p>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=48&amp;lines=Welcome+to+my+GitHub+Profile!;Passionate+About+Programming;Turning+Ideas+Into+Code;Always+Learning+Something+New;Code.+Create.+Learn.+Repeat."
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=48&lines=Welcome+to+my+GitHub+Profile!;Passionate+About+Programming;Turning+Ideas+Into+Code;Always+Learning+Something+New;Code.+Create.+Learn.+Repeat."
     alt="Animated Introduction"
     width="95%"
   />
@@ -25,28 +25,28 @@
 
 <p align="center">
 
-  <a href="https://github.com/10badhon?tab=repositories">
+  <a href="https://github.com/tanvirbadhon?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Projects"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/tanvirbadhon10/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <!-- NEW PROFILE VIEWS COUNTER -->
- 
-<a href="https://hits.sh/github.com/10badhon/">
-  <img
-    src="https://hits.sh/github.com/10badhon.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=0891B2&amp;extraCount=10124"
-    alt="Profile Views"
-  />
-</a>
+  <!-- PROFILE VIEWS COUNTER -->
+
+  <a href="https://hits.sh/github.com/tanvirbadhon/">
+    <img
+      src="https://hits.sh/github.com/tanvirbadhon.svg?style=for-the-badge&label=Profile%20Views&color=0891B2&extraCount=10124"
+      alt="Profile Views"
+    />
+  </a>
 
 </p>
 
@@ -69,7 +69,7 @@
 - 🧠 I enjoy exploring new technologies and turning ideas into practical solutions.
 - 🚀 Continuously learning, experimenting, and improving my technical skills.
 - 📚 Interested in academic research and knowledge sharing.
-- 📂 Explore my projects on **[GitHub](https://github.com/10badhon?tab=repositories)**.
+- 📂 Explore my projects on **[GitHub](https://github.com/tanvirbadhon?tab=repositories)**.
 
 ---
 
@@ -146,9 +146,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/10badhon?tab=repositories">
+  <a href="https://github.com/tanvirbadhon?tab=repositories">
     <img
-      src="https://img.shields.io/badge/View_My_Repositories-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      src="https://img.shields.io/badge/View_My_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Repositories"
     />
   </a>
@@ -165,14 +165,14 @@
     <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=10badhon&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=818CF8&amp;text_color=CBD5E1&amp;card_width=400"
+        src="https://github-stats-extended.vercel.app/api?username=tanvirbadhon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&card_width=400"
         alt="GitHub Statistics"
       />
     </td>
     <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=10badhon&amp;layout=compact&amp;langs_count=7&amp;card_width=400&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=CBD5E1"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanvirbadhon&layout=compact&langs_count=7&card_width=400&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"
         alt="Top Programming Languages"
       />
     </td>
@@ -182,7 +182,10 @@
 <!-- ==================== GITHUB STREAK ==================== -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=10badhon&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=tanvirbadhon&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -197,9 +200,9 @@
 
 <p align="center">
 
-  <a href="https://scholar.google.com/citations?user=g2oTUygAAAAJ&amp;hl=en">
+  <a href="https://scholar.google.com/citations?user=g2oTUygAAAAJ&hl=en">
     <img
-      src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"
+      src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"
       alt="Google Scholar Profile"
     />
   </a>
@@ -207,7 +210,7 @@
 
   <a href="https://orcid.org/0009-0002-4175-9067">
     <img
-      src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"
+      src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
       alt="ORCID Profile"
     />
   </a>
@@ -236,22 +239,22 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/tanvirbadhon10/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
 
   <a href="https://www.facebook.com/tanvirbadhon10/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
 
   <a href="https://www.instagram.com/tanvir_badhon_10/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
 
-  <a href="https://github.com/10badhon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <a href="https://github.com/tanvirbadhon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </p>
@@ -271,7 +274,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,50:1D4ED8,100:0891B2&amp;height=100&amp;section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:0891B2&height=100&section=footer"
     alt="GitHub Profile Footer"
   />
 </p>
