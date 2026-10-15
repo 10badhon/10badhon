@@ -41,12 +41,13 @@
 
   <!-- PROFILE VIEWS COUNTER -->
 
-  <a href="https://hits.sh/github.com/tanvirbadhon/">
-    <img
-      src="https://hits.sh/github.com/tanvirbadhon.svg?style=for-the-badge&label=Profile%20Views&color=0891B2&extraCount=10124"
-      alt="Profile Views"
-    />
-  </a>
+<a href="https://hits.sh/github.com/tanvirbadhon/">
+  <img
+    src="https://hits.sh/github.com/tanvirbadhon.svg?style=for-the-badge&label=Profile%20Views&color=0891B2&extraCount=10124"
+    alt="Profile Views"
+    loading="eager"
+  />
+</a>
 
 </p>
 
