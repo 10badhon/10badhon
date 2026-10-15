@@ -25,18 +25,14 @@
 
 <p align="center">
 
+  <!-- LIVE PORTFOLIO BUTTON -->
 
-<!-- ANIMATED LIVE PORTFOLIO BUTTON -->
-
-<a href="https://tanvirbadhon.github.io/">
-  <img
-    src="https://raw.githubusercontent.com/tanvirbadhon/tanvirbadhon/main/assets/live-portfolio.gif"
-    alt="Visit My Live Portfolio"
-    width="180"
-    height="32"
-  />
-</a>
-
+  <a href="https://tanvirbadhon.github.io/">
+    <img
+      src="https://img.shields.io/badge/LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"
+      alt="Visit My Live Portfolio"
+    />
+  </a>
 
   <a href="https://github.com/tanvirbadhon?tab=repositories">
     <img
